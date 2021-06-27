@@ -11,6 +11,10 @@ var soljsonReleases = {
   "0.5.14": "soljson_v0.5.14.js",
   "0.5.15": "soljson_v0.5.15.js",
   "0.5.16": "soljson-v0.5.16.js",
+  tronbox_soljson_v1: "tronbox_soljson_v1.js",
+  tronbox_soljson_v2: "tronbox_soljson_v2.js",
+  tronbox_soljson_v3: "tronbox_soljson_v3.js",
+  "tron_0.4.25_Odyssey_v3.2.3": "tron_0.4.25_Odyssey_v3.2.3.js",
   "0.6.0": "soljson_v0.6.0.js",
 };
 
