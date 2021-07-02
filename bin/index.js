@@ -1,6 +1,5 @@
 var soljsonSources = [];
 var soljsonReleases = {
-  "0.4.24": "soljson_v0.4.24.js",
   "0.4.25": "soljson_v0.4.25.js",
   "0.5.4": "soljson_v0.5.4.js",
   "0.5.8": "soljson_v0.5.8.js",
@@ -13,11 +12,6 @@ var soljsonReleases = {
   "0.5.16": "soljson_v0.5.16.js",
   "0.5.17": "soljson_v0.5.17.js",
   "0.6.0": "soljson_v0.6.0.js",
-  "0.6.2": "soljson_v0.6.2.js",
-  "0.6.8": "soljson_v0.6.8.js",
-  "0.6.12": "soljson_v0.6.12.js",
-  "0.7.0": "soljson_v0.7.0.js",
-  "0.7.6": "soljson_v0.7.6.js",
 };
 
 if (typeof module !== "undefined")
